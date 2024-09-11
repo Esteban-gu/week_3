@@ -234,19 +234,23 @@ print(sqrt(36))
 # # **Getting Input from users**
 # #how do we get input from users?
 # input("what is your name?")
+name = input("What is your name?")
+print("Hello", name)
 # # basic math calculator
 # #ask the user for 2 numbers
+number_one = int(input("Pick a number"))
+number_two = int(input("Pick another number"))
 # # print out a statement where you:
 # # add them together
+print ( "Your numbers when added together is", int(number_one) + int(number_two))
 # #multiply
+print ("Your numbers when multiplied together is", int(number_one) * int(number_two))
 # # find the max number
+print ("Your max of your number is", (max(int(number_one), int(number_two))))
 # # find the remainder of the numbers
+print ("Your remainder of the division is", (int(number_one) % (number_two)))
 # #round one number
-
-
-
-
-
+print ("Your number when is rounded is", (round(int(number_one), int(number_two))))
 
 
 
