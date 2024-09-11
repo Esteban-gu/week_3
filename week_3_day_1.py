@@ -179,20 +179,42 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 
 ##########################################################################################
 # #addition
+print(2 + 2)
 # #multiplication
+print(2 * 2)
 # #division
+print(2 / 2)
 # #modulo
+print(2 % 2) # remainder of the division
 # #powers
+print(2 ** 2)
 # #get the max and min of a number
+print(max(2, 3))#max number of the two
+print(min(2, 3))#min number of the two
 # #round a number
+print(round(2.5))#rounds to the nearest whole number
 # # absolute value
+print(abs(-2))#absolute value of the number
 # # order of operations
+print(2 + 10 * 10 + 3)#order of operations
 # #to do more you need to import special math libraries from python
-# #from math import *    
+from math import *    
 # #this goes out and grabs some different math functions we can use
 # #floor method
+print(floor(3.7))#floor method
+print(floor(3.3))#floor method
+print(floor(3.9))#floor method
+#floor menas it will always round down
 # #ceil method
+print(ceil(3.7))#ceil method
+print(ceil(3.3))#ceil method
+#ceil means it will always round up
 # #sqrt method
+print(sqrt(36))
+# #sqrt method means it will find the 
+# square root of the number
+# which is the number that when
+# multiplied by itself gives the number
 
 
 
