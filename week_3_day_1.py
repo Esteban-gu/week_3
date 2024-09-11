@@ -108,12 +108,19 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 
 
 # 1st_name
+#   first_name
 # last name
+#   last_name
 # email@address
+#   email_address
 # percent%
+#   percentage
 # variable#name
+#   variable_name
 # O
+#   O_block
 # list
+#   list_of_names
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -129,15 +136,15 @@ print(f"Still, {name} was the best coder on the team and could write {number} li
 # Identify Valid and Invalid Names: Identify which of the following names are valid or invalid according to the rules:
 
 
-# first_name
-# lastName
-# email_address
-# percentage
-# variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# first_name = valid
+# lastName = valid
+# email_address = valid
+# percentage = valid
+# variable_name = valid
+# 1_variable = invalid
+# email@address = invalid
+# percentage% = invalid
+# i = invalid
 
 
 
